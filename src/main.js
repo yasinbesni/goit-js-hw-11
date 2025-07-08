@@ -16,7 +16,7 @@ searchButton.addEventListener("click", (event) => {
   const searchText = document.querySelector("#searchInput").value;
   const loader = document.querySelector(".loader");
   
-    const apiKey = "51231879-eed04209a1a79d06c7f1b2879";
+    const apiKey = "48318006-868fd1918e5aa19d98c3706e2";
     const searchParams = new URLSearchParams({
       q: searchText,
       image_type: "photo",
